@@ -47,7 +47,7 @@ input:user-invalid {
 }
 
 .bannerAbout {
-    background: linear-gradient(rgba(0, 0, 0, 0.562), rgba(0, 0, 0, 0.534)), url(/docs/assets/images/bright.jpeg) center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.705)), url(/docs/assets/images/bright.jpeg) center/cover no-repeat;
     background-attachment: fixed;
 }
 
